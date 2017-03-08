@@ -1,0 +1,11 @@
+body {
+    font-family:arial;    
+}
+#linkbox{
+         background-color:rgb(5,5,5);
+         border: solid 1px black;
+         float: left;
+         padding: 20px;  
+         margin-right:10px;
+}
+#linkp{margin:5px}
